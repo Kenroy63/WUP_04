@@ -1,7 +1,7 @@
 ---
 title: "WUP_04"
-author: "Put your name here!"
-date: "fall 2023"
+author: "Kenroy Fuller!"
+date: "6/17/23"
 output:
   html_document:
     df_print: paged
